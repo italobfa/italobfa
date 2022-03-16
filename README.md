@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou Ítalo Bruno e bem-vindo ao meu Github 👨‍💻
 
-- 🔭 Hoje estou trabalhando como carteiro, buscando vaga no mercado de tecnologia como dev android.
+- 🔭 Hoje estou trabalhando como carteiro, buscando vaga no mercado de tecnologia.
 - 🌱 Estou estudando desenvolvimento android
 
 <div align="center">
