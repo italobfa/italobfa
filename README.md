@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou Ítalo Bruno e bem-vindo ao meu Github 👨‍💻
 
-- 🔭 Hoje estou trabalhando como carteiro, buscando vaga no mercado de tecnologia.
-- 🌱 Estou estudando desenvolvimento android
+- 🔭 Hoje estou trabalhando como carteiro e analista de dados autônomo, buscando vaga no mercado de tecnologia.
+- 🌱 Desenvolvendo minhas habilidades para me tornar um Cientista de Dados.
 
 <div align="center">
   <a href="https://github.com/italobfa">
